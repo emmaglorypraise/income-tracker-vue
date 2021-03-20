@@ -2,6 +2,10 @@
 node_modules
 /dist
 
+package.json
+yarn.lock
+babel.config.js
+
 
 # local env files
 .env.local

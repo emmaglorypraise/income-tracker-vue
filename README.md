@@ -1,4 +1,5 @@
 # my-income-tracker
+## An income tracker app built with Vue
 
 ## Project setup
 ```
